@@ -5,5 +5,5 @@
 
 <img src = "https://user-images.githubusercontent.com/11696874/78470885-6cc45680-7735-11ea-913f-6fce72890a00.JPG">
 
-<h4>Notes</>
+<h4>Notes</h4>
   If the microcontroller keeps restarting after enabling core 0, please consider using a 10ms delay in the while(1) loop of the core0 function.
